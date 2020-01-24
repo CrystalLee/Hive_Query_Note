@@ -79,7 +79,7 @@ FROM
 | 8   | 2020-01-03 | John | 100    | 100          | 100        |
 | 9   | 2020-01-04 | John | 200    | 200          | 200        |
 
-Query Example https://www.db-fiddle.com/f/xti4UmPATu1dzCkA4s98C9/1
+Query Example https://www.db-fiddle.com/f/xti4UmPATu1dzCkA4s98C9/7
 
 ----
 
